@@ -1,0 +1,6 @@
+hussein123
+the number of directories: 14
+the number of files: 3
+curl is already installed
+git is already installed
+docker is not installed
